@@ -1,0 +1,1 @@
+cocnsole.log("java sript")
