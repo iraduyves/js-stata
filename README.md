@@ -1,2 +1,2 @@
 # Description
-Java Script
+Javascript Application
